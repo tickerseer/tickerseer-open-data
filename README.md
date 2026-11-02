@@ -19,13 +19,16 @@ the site. Per-stock ratings are not in this dataset.
 - `ledger-rows.csv`
 - `ledger-scorecard/2026-W41.csv`
 - `ledger-scorecard/2026-W42.csv`
+- `ledger-scorecard/2026-W45.csv`
 - `market-structure/2026-08.csv`
 - `market-structure/2026-09.csv`
 - `market-structure/2026-10.csv`
+- `market-structure/2026-11.csv`
 - `valuation-temperature/2026-07.csv`
 - `valuation-temperature/2026-08.csv`
 - `valuation-temperature/2026-09.csv`
 - `valuation-temperature/2026-10.csv`
+- `valuation-temperature/2026-11.csv`
 
 ## valuation-temperature/<YYYY-MM>.csv
 
@@ -34,8 +37,8 @@ The monthly Valuation Temperature tables (<https://tickerseer.com/reports/valuat
 (the quality-against-value quadrant) and `richest_vs_history` (sub-industries
 most above their own historical normal P/E) and, where the month file
 carries it, `market-structure/<YYYY-MM>.csv` (whole-universe aggregates such as
-the median overvaluation). Months 2026-07 to 2026-10. The `universe` column is
-each month's own stamp, blank where the file carries none: 2026-07: no universe stamp, 2026-08: no universe stamp, 2026-09: no universe stamp, 2026-10: us. A month
+the median overvaluation). Months 2026-07 to 2026-11. The `universe` column is
+each month's own stamp, blank where the file carries none: 2026-07: no universe stamp, 2026-08: no universe stamp, 2026-09: no universe stamp, 2026-10: us, 2026-11: us. A month
 with no stamp was computed over the unfiltered frame, which included some
 companies domiciled outside the United States; each month's page on the site
 discloses its own share.
@@ -43,7 +46,7 @@ discloses its own share.
 ## ledger-scorecard/<YYYY-Www>.csv and ledger-rows.csv
 
 The settled earnings-week calls tickerseer published since 2026-05-11,
-as of 2026-10-12. `ledger-rows.csv` is the same file the site serves at
+as of 2026-11-02. `ledger-rows.csv` is the same file the site serves at
 <https://tickerseer.com/track-record.csv>: one row per settled call, with a modeled dollar
 withheld where the reconstruction is marked suspect. The scorecard is the
 per-structure and per-direction tally from <https://tickerseer.com/research>. Method pages:

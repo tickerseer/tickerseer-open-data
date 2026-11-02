@@ -1,0 +1,62 @@
+month,table,rank,sub_industry,median_peg,fwd_growth_pct,above_normal_pe_pct,universe
+2026-11,cheapest,1,Cable & satellite TV,0.26,12.8,,us
+2026-11,cheapest,2,Mobile carriers,0.37,151.5,,us
+2026-11,cheapest,3,Airlines,0.38,46.0,,us
+2026-11,cheapest,4,Financial conglomerates,0.46,17.2,,us
+2026-11,cheapest,5,Mortgage trusts,0.46,11.9,,us
+2026-11,cheapest,6,Steelmakers,0.47,36.7,,us
+2026-11,cheapest,7,TV & radio networks,0.48,21.8,,us
+2026-11,cheapest,8,Ad agencies & marketing,0.62,20.5,,us
+2026-11,cheapest,9,Video games,0.62,49.8,,us
+2026-11,cheapest,10,Consumer lending & cards,0.64,17.9,,us
+2026-11,quadrant,1,Mobile carriers,0.37,151.5,,us
+2026-11,quadrant,2,Airlines,0.38,46.0,,us
+2026-11,quadrant,3,Financial conglomerates,0.46,17.2,,us
+2026-11,quadrant,4,Steelmakers,0.47,36.7,,us
+2026-11,quadrant,5,TV & radio networks,0.48,21.8,,us
+2026-11,quadrant,6,Ad agencies & marketing,0.62,20.5,,us
+2026-11,quadrant,7,Video games,0.62,49.8,,us
+2026-11,quadrant,8,Consumer lending & cards,0.64,17.9,,us
+2026-11,quadrant,9,"Computers, storage & devices",0.67,23.4,,us
+2026-11,quadrant,10,Car parts,0.67,18.3,,us
+2026-11,quadrant,11,Search & social media,0.72,14.3,,us
+2026-11,quadrant,12,Ride-hailing & transit,0.77,36.2,,us
+2026-11,quadrant,13,Bulk chemicals,0.77,27.8,,us
+2026-11,quadrant,14,Chemical conglomerates,0.79,30.7,,us
+2026-11,quadrant,15,Power generation equipment,0.83,42.9,,us
+2026-11,quadrant,16,Tech wholesalers,0.89,15.1,,us
+2026-11,quadrant,17,Real estate brokers & services,0.89,25.8,,us
+2026-11,quadrant,18,Security services,0.9,18.7,,us
+2026-11,quadrant,19,Engineering & construction firms,0.92,24.4,,us
+2026-11,quadrant,20,Payments,0.92,16.7,,us
+2026-11,quadrant,21,Power producers & energy traders,0.93,19.3,,us
+2026-11,quadrant,22,Toys & recreation gear,0.94,25.6,,us
+2026-11,quadrant,23,Furniture stores,0.94,38.3,,us
+2026-11,quadrant,24,Chipmaking equipment,0.98,32.9,,us
+2026-11,quadrant,25,Gold mining,0.99,15.5,,us
+2026-11,quadrant,26,Heavy machinery & trucks,0.99,17.6,,us
+2026-11,quadrant,27,Chipmakers,1.02,32.8,,us
+2026-11,quadrant,28,Electronic parts,1.03,26.3,,us
+2026-11,quadrant,29,Oilfield services,1.03,23.1,,us
+2026-11,quadrant,30,Contract electronics makers,1.06,24.9,,us
+2026-11,quadrant,31,Car dealers & parts stores,1.07,14.4,,us
+2026-11,quadrant,32,Carmakers,1.09,15.3,,us
+2026-11,quadrant,33,Staffing & payroll,1.09,20.0,,us
+2026-11,quadrant,34,Packaging makers,1.12,14.6,,us
+2026-11,quadrant,35,Trucking & freight,1.16,27.6,,us
+2026-11,quadrant,36,Food wholesalers,1.16,18.0,,us
+2026-11,quadrant,37,Networking gear,1.16,27.2,,us
+2026-11,quadrant,38,Online & department stores,1.19,20.2,,us
+2026-11,quadrant,39,Business support services,1.23,19.1,,us
+2026-11,quadrant,40,Biotech,1.25,20.3,,us
+2026-11,quadrant,41,Specialty chemical makers,1.27,13.1,,us
+2026-11,richest_vs_history,1,Coal & uranium,,,160.9,us
+2026-11,richest_vs_history,2,Contract electronics makers,,,40.2,us
+2026-11,richest_vs_history,3,Trucking & freight,,,30.2,us
+2026-11,richest_vs_history,4,Business support services,,,30.0,us
+2026-11,richest_vs_history,5,Steelmakers,,,29.0,us
+2026-11,richest_vs_history,6,Electronic parts,,,28.9,us
+2026-11,richest_vs_history,7,Homebuilders,,,27.4,us
+2026-11,richest_vs_history,8,Aircraft & defense,,,26.5,us
+2026-11,richest_vs_history,9,Chipmaking equipment,,,22.3,us
+2026-11,richest_vs_history,10,Lab tools & research services,,,21.9,us

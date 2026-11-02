@@ -17,6 +17,9 @@
       "path": "ledger-scorecard/2026-W42.csv"
     },
     {
+      "path": "ledger-scorecard/2026-W45.csv"
+    },
+    {
       "path": "market-structure/2026-08.csv"
     },
     {
@@ -24,6 +27,9 @@
     },
     {
       "path": "market-structure/2026-10.csv"
+    },
+    {
+      "path": "market-structure/2026-11.csv"
     },
     {
       "path": "valuation-temperature/2026-07.csv"
@@ -36,6 +42,9 @@
     },
     {
       "path": "valuation-temperature/2026-10.csv"
+    },
+    {
+      "path": "valuation-temperature/2026-11.csv"
     }
   ]
 }
